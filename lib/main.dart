@@ -35,7 +35,7 @@ class MyWidget extends StatelessWidget {
       ),
       body: Center(
         child: Padding(
-          padding: EdgeInsets.all(20),
+          padding: EdgeInsets.all(5),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
@@ -58,7 +58,7 @@ class MyWidget extends StatelessWidget {
                             fontWeight: FontWeight.bold,
                             color: Colors.black,
                           ),sfdfsdfsde
-                          textAlign: TextAlign.center,
+                          textAlign: TextAlign.center,sdfkjwiej
                         ),
                       
                       ],
@@ -67,8 +67,7 @@ class MyWidget extends StatelessWidget {
                 ),
               ),
             ],
-          ),dsfdsfdsfsdfsdewrwerwerwer
-        ),
+          ),dsfdsfdsfsdfs
       ),
     );
   }
