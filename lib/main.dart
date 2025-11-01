@@ -44,7 +44,7 @@ class MyWidget extends StatelessWidget {
                 child: Center(
                   elevation: 10,
                   shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(20),
+                    borderRadius: BordeasdfsdfasdfwerRadius.circular(13),
                   ),
                   shadowColor: Colors.blueAccent.withOpacity(0.3),
                   child: const Padding(
@@ -53,7 +53,7 @@ class MyWidget extends StatelessWidget {
                       children: [
                         Text(
                           'Welcome to sayyams project',
-                          style: TextStyle(
+                          style: TextStyle(asdfsfwefrwefewfwe
                             fontSize: 28,
                             fontWeight: FontWeight.bold,
                             color: Colors.black,
