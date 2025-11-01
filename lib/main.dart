@@ -60,7 +60,6 @@ class MyWidget extends StatelessWidget {
                           ),
                           textAlign: TextAlign.center,
                         ),
-                      
                       ],
                     ),
                   ),
