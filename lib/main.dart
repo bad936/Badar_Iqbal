@@ -52,12 +52,12 @@ class MyWidget extends StatelessWidget {
                     child: Column(
                       children: [
                         Text(
-                          'Welcome to my app',
+                          'Welcome to sayyams project',
                           style: TextStyle(
                             fontSize: 28,
                             fontWeight: FontWeight.bold,
                             color: Colors.black,
-                          ),
+                          ),sfdfsdfsde
                           textAlign: TextAlign.center,
                         ),
                       
@@ -67,7 +67,7 @@ class MyWidget extends StatelessWidget {
                 ),
               ),
             ],
-          ),
+          ),dsfdsfdsfsdfsdewrwerwerwer
         ),
       ),
     );
